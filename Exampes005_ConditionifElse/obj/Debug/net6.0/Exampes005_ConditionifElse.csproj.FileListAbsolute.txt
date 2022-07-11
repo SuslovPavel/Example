@@ -1,0 +1,15 @@
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\bin\Debug\net6.0\Exampes005_ConditionifElse.exe
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\bin\Debug\net6.0\Exampes005_ConditionifElse.deps.json
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\bin\Debug\net6.0\Exampes005_ConditionifElse.runtimeconfig.json
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\bin\Debug\net6.0\Exampes005_ConditionifElse.dll
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\bin\Debug\net6.0\Exampes005_ConditionifElse.pdb
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\Exampes005_ConditionifElse.csproj.AssemblyReference.cache
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\Exampes005_ConditionifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\Exampes005_ConditionifElse.AssemblyInfoInputs.cache
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\Exampes005_ConditionifElse.AssemblyInfo.cs
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\Exampes005_ConditionifElse.csproj.CoreCompileInputs.cache
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\Exampes005_ConditionifElse.dll
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\refint\Exampes005_ConditionifElse.dll
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\Exampes005_ConditionifElse.pdb
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\Exampes005_ConditionifElse.genruntimeconfig.cache
+C:\Users\Papa\OneDrive\Рабочий стол\WORKSPASE\Examples\Exampes005_ConditionifElse\obj\Debug\net6.0\ref\Exampes005_ConditionifElse.dll
