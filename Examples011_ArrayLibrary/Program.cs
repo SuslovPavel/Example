@@ -1,4 +1,6 @@
-﻿void FillArray (int[] collection)
+﻿// метод заполнения массива и выведение на экран
+
+void FillArray (int[] collection)
  
 {
     int length = collection.Length;
