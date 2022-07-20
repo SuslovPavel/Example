@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Papa\\.nuget\\packages\\": {}
+    "C:\\Users\\pavel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Papa\\OneDrive\\Рабочий стол\\WORKSPASE\\Examples\\Exampes005_ConditionifElse\\Exampes005_ConditionifElse.csproj",
+      "projectUniqueName": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\WORKSPASE\\Example\\Exampes005_ConditionifElse\\Exampes005_ConditionifElse.csproj",
       "projectName": "Exampes005_ConditionifElse",
-      "projectPath": "C:\\Users\\Papa\\OneDrive\\Рабочий стол\\WORKSPASE\\Examples\\Exampes005_ConditionifElse\\Exampes005_ConditionifElse.csproj",
-      "packagesPath": "C:\\Users\\Papa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Papa\\OneDrive\\Рабочий стол\\WORKSPASE\\Examples\\Exampes005_ConditionifElse\\obj\\",
+      "projectPath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\WORKSPASE\\Example\\Exampes005_ConditionifElse\\Exampes005_ConditionifElse.csproj",
+      "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\WORKSPASE\\Example\\Exampes005_ConditionifElse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Papa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
