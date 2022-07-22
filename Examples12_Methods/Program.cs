@@ -67,7 +67,7 @@ string Method41(int count, string text)
 //Console.WriteLine(result);
 
 
-//     Пример Цикл в Цикле     //
+//     Пример Цикл в Цикле на таблице умножения     //
 
 void Method5()
 {
@@ -83,32 +83,75 @@ void Method5()
 }
 //Method5();
 
+
 //======Работа с текстоМ======//
 // Дан текст. В тексте нужно все пробелы заменить черточками,
 // маленькие буквы "к" заменить большими "К",
 // а заглавные "С" на маленькие "с".
 
-string text = " - Я думаю, сказал князь, улыбаясь, - что, "
-            + " ежели бы вас послали вместо нашего милого Винценгероде, "
-            + " вы бы взяли приступом согласия прусского колроля. "
-            + " Вы так красноречивы. Вы дадите мне чаю?";
+// string text = " - Я думаю, сказал князь, улыбаясь, - что, "
+//             + " ежели бы вас послали вместо нашего милого Винценгероде, "
+//             + " вы бы взяли приступом согласия прусского колроля. "
+//             + " Вы так красноречивы. Вы дадите мне чаю?";
 
-// string s = qwerty
-//            012
-// s[3]//r
+// // string s = qwerty
+// //            012
+// // s[3]//r
 
-string Replace(string text, char oldValue, char newValue)
+// string Replace(string text, char oldValue, char newValue)
+// {
+//     string result = String.Empty;
+
+//     int length = text.Length;
+//     for (int i =0; i < length; i++)
+//     {
+//         if(text[i] == oldValue) result = result + $"{newValue}";
+//         else result = result + $"{text[i]}";
+//     }
+//    return result;
+
+// }
+
+// String newText = Replace(text, ' ', '-'); // команда замены
+// Console.WriteLine(newText);
+// Console.WriteLine();
+// newText = Replace(text, 'к', 'К');       // команда замены
+// Console.WriteLine(newText);
+//======Работа с текстом======//
+
+
+
+//======Алгоритм сортировки методом выбора (min max)=====//
+
+int [] arr = {1,5,4,3,2,6,7,1,1};
+
+void PrintArray(int[]array)
 {
-    string result = String.Empty;
-
-    int length = text.Length;
-    for (int i =0; i < length; i++)
+    int count = array.Length;
+    for (int i=0; i<count; i++)
     {
-        if(text[i] == oldValue) result = result + $"{newValue}";
-        else result = result + $"{text[i]}";
+        Console.Write($"{array[i]} ");
     }
-   return result;
-
+    Console.WriteLine();
 }
-String newText = Replace(text, ' ', '-');
-Console.WriteLine(newText);
+
+void SelectionSort(int[] array)
+{
+    for (int i = 0; i < array.Length - 1 ; i++)   // проход по всей длине массива
+    {
+        int minPosition = i;
+        for (int j = i+1; j< array.Length; j++ ) // поиск минимального значения
+        {
+            if (array[j] <  array[minPosition]) minPosition = j;   // присваивание мин. эл-та или макс, в зависимости от направления "<" или ">"
+        }
+        int temporary = array[i];
+        array[i] = array[minPosition];        // В этом блоке происходит замена эл-та
+        array[minPosition] = temporary;
+    }
+}
+
+//PrintArray(arr);
+//SelectionSort(arr);
+
+//PrintArray(arr);
+
